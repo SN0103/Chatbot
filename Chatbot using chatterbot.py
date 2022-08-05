@@ -30,7 +30,6 @@ trainer.train([
  'The fee structure for Direct Second year is 116278.00',
  'what are the scholarships provided',
  'Scholarships such as Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojna(EBC), Dr. Panjabrao Deshmukh Vastigruh Nirvah Bhatta Yojna(DTE), Students from Minority Communities Pursuing Higher and Professional Courses.(DTE), AICTE SWANATH Scholarship Scheme for students (2021-22), AICTE Pragati Scholarship scheme (2021-22), AICTE Saksham Scholarship scheme(2021-22)',
-
  'the Associate Professor & Head Of Department of Computer Engineering department',
  'Dr. Megha Trivedi is the Associate Professor & Head Of Department of Computer Engineering department',
  'the Deputy HOD & Asst. Prof of Computer Science Engineering(Data Science) departemnt',
